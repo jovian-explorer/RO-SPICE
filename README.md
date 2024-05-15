@@ -13,7 +13,7 @@ The script requires the following inputs:
 - The name or NAIF code of the observing station.
 - The length of the observation period in seconds.
 - The number of parts to divide each second into (subdivisions per second).
-
+- Mass of the target body in question (Has to be added in the code itself, may/may not add a functionality for removing this input).
 
 ### Output:
 The script calculates all geometric properties for an occultation experiment for each time step in the observation period:
